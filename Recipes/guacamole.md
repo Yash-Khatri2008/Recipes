@@ -4,7 +4,7 @@
 
 \*avocado 
 
-\*lemon
+\*lime
 
 \*salt
 
