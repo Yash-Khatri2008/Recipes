@@ -2,11 +2,13 @@
 
 \## Ingredients
 
-\*avocado 
+\*avocado -> 25 aed/kg
 
-\*lime
+\*lime -> 5aed/kg
 
-\*salt
+\*salt -> 15 aed/kg
+
+
 
 \### Instructions 
 
